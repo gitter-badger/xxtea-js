@@ -1,5 +1,7 @@
 # XXTEA for JavaScript
 
+[![Join the chat at https://gitter.im/xxtea/xxtea-js](https://badges.gitter.im/xxtea/xxtea-js.svg)](https://gitter.im/xxtea/xxtea-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://github.com/xxtea/">
     <img src="https://avatars1.githubusercontent.com/u/6683159?v=3&s=86" alt="XXTEA logo" title="XXTEA" align="right" />
 </a>
